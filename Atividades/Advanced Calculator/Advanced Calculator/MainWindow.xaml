@@ -1,0 +1,29 @@
+﻿<Window x:Class="Advanced_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Advanced_Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="300">
+    <Grid>
+        <TextBox  Name="tbxInput" TextAlignment="Right" FontSize="24"  HorizontalAlignment="Left" Height="42" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="65,57,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="OnNumberButtonClick"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="OnNumberButtonClick"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="65,112,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="120,112,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="120,57,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="10,167,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="65,167,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="120,167,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="10,222,0,0" VerticalAlignment="Top" Width="160" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="209,57,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="209,112,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="209,167,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="209,222,0,0" VerticalAlignment="Top" Width="50" Height="50"  Click="OnNumberButtonClick"/>
+        <Button Content="Compute" HorizontalAlignment="Left" Margin="10,284,0,0" VerticalAlignment="Top" Width="160" Height="25"  Click="Button_Click"/>
+        <Button Name="btbDelete" Content="Delete" HorizontalAlignment="Left" Margin="191,284,0,0" VerticalAlignment="Top" Width="91" Height="25"  Click="btbDelete_Click"/>
+
+    </Grid>
+</Window>

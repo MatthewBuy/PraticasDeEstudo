@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator_MarkupCompile.cache
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator_MarkupCompile.lref
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.g.resources
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+C:\Users\User\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
