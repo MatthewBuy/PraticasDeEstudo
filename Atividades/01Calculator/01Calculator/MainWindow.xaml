@@ -1,0 +1,22 @@
+﻿<Window x:Class="_01Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01Calculator"
+        mc:Ignorable="d"
+        Title="Calculator" Height="350" Width="525">
+    <Grid Width="525" Height="320">
+        <Label Name="lblFirstNumber" Content="First number: " FontSize="24" Margin="5,44,356,234" ></Label>
+            <TextBox Name="txbFirstNumber" FontSize="24" Margin="205,48,183,237" Text="1"
+                 TextAlignment="Center"></TextBox>
+        <Label Name="lblSecondNumber" Content="Second number: " FontSize="24" Margin="5,90,317,188" ></Label>
+        <TextBox Name="txbSecondNumber" FontSize="24" Margin="205,94,183,191" Text="1"
+                 TextAlignment="Center"></TextBox>
+        <Button Margin="364,72,39,210" Content="Compute" Click="Button_Click"/>
+        <Label Name="lblSumResult" Content="" FontSize="24" Margin="55,136,82,142" ></Label>
+        <Label Name="lblMinResult" Content="" FontSize="24" Margin="55,182,82,96" />
+        <Label Name="lblDivResult" Content="" FontSize="24" Margin="55,228,82,50" />
+        <Label Name="lblMulResult" Content="" FontSize="24" Margin="55,268,82,10" />
+    </Grid>
+</Window>

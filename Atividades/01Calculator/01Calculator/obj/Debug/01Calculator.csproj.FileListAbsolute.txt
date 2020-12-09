@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\App.g.cs
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator_MarkupCompile.cache
+C:\Users\User\source\repos\01Calculator\01Calculator\bin\Debug\01Calculator.exe.config
+C:\Users\User\source\repos\01Calculator\01Calculator\bin\Debug\01Calculator.exe
+C:\Users\User\source\repos\01Calculator\01Calculator\bin\Debug\01Calculator.pdb
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator_MarkupCompile.lref
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.g.resources
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\_01Calculator.Properties.Resources.resources
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.exe
+C:\Users\User\source\repos\01Calculator\01Calculator\obj\Debug\01Calculator.pdb
