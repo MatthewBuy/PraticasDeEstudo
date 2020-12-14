@@ -15,20 +15,20 @@ namespace PetShop
             int valor = 0;
           
 
-            Console.WriteLine("*----------------------------*");
+            Console.WriteLine("----------------------------");
             foreach (var raça in raças)
             {
                 Console.WriteLine(raça);
             }
-            Console.WriteLine("*----------------------------*");
+            Console.WriteLine("----------------------------");
             Console.WriteLine("Escreva qual é a raça do seu pet");
             escolhaR = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("*----------------------------*");
+            Console.WriteLine("----------------------------");
             foreach (var tamanho in tamanhos)
             {
                 Console.WriteLine(tamanho);
             }
-            Console.WriteLine("*----------------------------*");
+            Console.WriteLine("----------------------------");
             Console.WriteLine("Escreva qual é o tamanho do seu pet");
             escolhaT = Convert.ToString(Console.ReadLine());
 
