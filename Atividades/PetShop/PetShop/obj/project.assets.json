@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\PetShop\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\MeusProjetos\\PraticasDeEstudo\\Atividades\\PetShop\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "C:\\Users\\User\\source\\repos\\PetShop\\PetShop\\PetShop.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\MeusProjetos\\PraticasDeEstudo\\Atividades\\PetShop\\PetShop\\PetShop.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\PetShop\\PetShop\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\MeusProjetos\\PraticasDeEstudo\\Atividades\\PetShop\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

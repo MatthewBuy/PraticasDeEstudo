@@ -11,3 +11,16 @@ C:\Users\User\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
 C:\Users\User\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
 C:\Users\User\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache
 C:\Users\User\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csprojAssemblyReference.cache
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csprojAssemblyReference.cache
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\User\Documents\MeusProjetos\PraticasDeEstudo\Atividades\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache
