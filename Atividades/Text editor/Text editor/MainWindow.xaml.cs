@@ -41,12 +41,21 @@ namespace Text_editor
 
         private void SaveFile_Click(object sender, RoutedEventArgs e)
         {
+            SaveFileDialog sf = new SaveFileDialog();
+            if(sf.ShowDialog() == true)
+            {
+                StreamWriter writer = new StreamWriter(sf.FileName);
+                string text = new TextRange(txtBox.Document.ContentStart,
+                                            txtBox.Document.ContentEnd).Text;
+                writer.Write(text);
+                writer.Close();
 
+            }
         }
 
         private void Close(object sender, RoutedEventArgs e)
         {
-
+            Close();
         }
     }
 }
