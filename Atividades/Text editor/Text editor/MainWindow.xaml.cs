@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +25,28 @@ namespace Text_editor
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void OpenFile_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog fd = new OpenFileDialog();
+            if(fd.ShowDialog() == true)
+            {
+                StreamReader reader = new StreamReader(fd.FileName);
+                txtBox.Document.Blocks.Clear();
+                txtBox.AppendText(reader.ReadToEnd());
+                reader.Close();
+            }
+        }
+
+        private void SaveFile_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Close(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

@@ -9,10 +9,10 @@
     <Grid>
         <Menu HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="525">
             <MenuItem Header="File" FontSize="16">
-                <MenuItem Header="Open File"/>
-                <MenuItem Header="Save File"/>
+                <MenuItem Header="Open File" Click="OpenFile_Click"/>
+                <MenuItem Header="Save File" Click="SaveFile_Click"/>
                 <Separator/>
-                <MenuItem Header="Close"/>
+                <MenuItem Header="Close" Click="Close"/>
             </MenuItem>
             <MenuItem Header="View" FontSize="16" >
                
