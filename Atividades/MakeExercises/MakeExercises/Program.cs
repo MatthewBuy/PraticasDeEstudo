@@ -6,8 +6,12 @@ namespace MakeExercises
     {
         static void Main(string[] args)
         {
-            string nome;
-            string ultimoNome;
+            // Exemplo de um if e else em apenas umas linha.
+            int x = 5;
+            string result = (x < 3) ? "Is greater." : "Is not greater.";
+            Console.WriteLine(result);
+
+            
 
         }
     }
