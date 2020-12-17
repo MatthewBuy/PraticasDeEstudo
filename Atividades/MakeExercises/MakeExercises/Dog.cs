@@ -10,13 +10,13 @@ namespace MakeExercises
         public string Tamanho { get; set; }
         public int Idade { get; set; }
 
-        /*public Dog(string raças, string tamanhos, int idades)
+        public Dog(string raças, string tamanhos, int idades)
         {
             Raça = raças;
             Tamanho = tamanhos;
             Idade = idades;
 
-        }*/
+        }
 
     }
 }

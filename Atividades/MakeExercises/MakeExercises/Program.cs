@@ -7,9 +7,9 @@ namespace MakeExercises
         static void Main(string[] args)
         {
 
-            Dog Beagle = new Dog();
+            Dog Beagle = new Dog("Beagle", "Pequeno", 2);
 
-            Beagle.Raça = "Beagle";
+            Beagle.Raça =;
             Beagle.Idade = 2;
             Beagle.Tamanho = "Pequeno";
            
