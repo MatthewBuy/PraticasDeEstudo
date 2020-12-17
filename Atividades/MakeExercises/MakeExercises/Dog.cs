@@ -6,17 +6,17 @@ namespace MakeExercises
 {
     class Dog
     {
-        public string raça;
-        public string tamanho;
-        public int idade;
+        public string Raça { get; set; }
+        public string Tamanho { get; set; }
+        public int Idade { get; set; }
 
-        public Dog(string raças, string tamanhos, int idades)
+        /*public Dog(string raças, string tamanhos, int idades)
         {
-            raça = raças;
-            tamanho = tamanhos;
-            idade = idades;
+            Raça = raças;
+            Tamanho = tamanhos;
+            Idade = idades;
 
-        }
+        }*/
 
     }
 }

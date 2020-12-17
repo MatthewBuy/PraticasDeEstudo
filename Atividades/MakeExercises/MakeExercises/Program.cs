@@ -7,10 +7,13 @@ namespace MakeExercises
         static void Main(string[] args)
         {
 
-            Dog Beagle = new Dog("Beagle", "Pequeno", 2);
+            Dog Beagle = new Dog();
 
+            Beagle.Raça = "Beagle";
+            Beagle.Idade = 2;
+            Beagle.Tamanho = "Pequeno";
            
-            Console.WriteLine($"Cachorro da raça {Beagle.raça.ToLower()}, do tamanho {Beagle.tamanho.ToLower()} e idade de {Beagle.idade} anos");
+            Console.WriteLine($"Cachorro da raça {Beagle.Raça.ToLower()}, do tamanho {Beagle.Tamanho.ToLower()} e idade de {Beagle.Idade} anos");
             
             // Exemplo de um if e else em apenas umas linha.
             int x = 5;
